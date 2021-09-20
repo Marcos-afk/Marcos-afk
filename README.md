@@ -5,7 +5,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula)
 
-[![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Principais tecnologias que utilizo no dia a dia
 <div style="display : inline_block"><br/>
