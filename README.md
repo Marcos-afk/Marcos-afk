@@ -3,9 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-melo-94609b1b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosart_baybay/)
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula)
-
-[![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) &nbsp; &nbsp;     [![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Principais tecnologias que utilizo no dia a dia
 <div style="display : inline_block"><br/>
