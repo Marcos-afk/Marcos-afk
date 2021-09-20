@@ -20,9 +20,6 @@
   
 </div><br/>
 
-<div> 
-![Snake animation](https://github.com/kleberbarilli/kleberbarilli/blob/output/github-contribution-grid-snake.svg) 
-</div>
 
 "Em algum lugar, algo incrível está esperando para ser descoberto."
 
