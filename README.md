@@ -1,7 +1,17 @@
-### Olá ! Bem vindo ao perfil de Marcos André 🎸
+<h3 align="center">
+  Bem vindo ao perfil de Marcos André!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-melo-94609b1b6/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosart_baybay/)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=✨+Em+algum+lugar;💻+Algo+incrível+está+esperando;🚀+Para+ser+descoberto&center=true&color=b18ae9&width=380&height=45"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-melo-94609b1b6/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-b18ae9.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/marcosart_baybay/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-ed72b6.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="mailto:andremarocs967@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) &nbsp; &nbsp;     [![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +27,4 @@
    <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   
 </div><br/>
-
-
-"Em algum lugar, algo incrível está esperando para ser descoberto."
 
