@@ -15,7 +15,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) &nbsp; &nbsp;     [![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display : inline_block"><br/>
+<div style="display : block"><br/>
   <h1>Algumas das principais tecnologias que utilizo no dia a dia</h1>
   <h3>👨‍💻 Linguagens de Programação</h3>
    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
