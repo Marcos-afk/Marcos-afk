@@ -13,8 +13,7 @@
     <a href="mailto:andremarocs967@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula)  
-[![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) &nbsp; [![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline-block"><br/>
   <h1>Algumas das principais tecnologias que utilizo no dia a dia</h1>
