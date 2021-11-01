@@ -53,4 +53,3 @@
   
 </div><br/>
 
-![Snake animation](https://github.com/Marcos-afk/Marcos-afk/blob/output/github-contribution-grid-snake.svg)
