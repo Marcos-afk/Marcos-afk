@@ -52,3 +52,5 @@
     <img  src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   
 </div><br/>
+
+![Snake animation](https://github.com/Marcos-afk/Marcos-afk/blob/output/github-contribution-grid-snake.svg)
