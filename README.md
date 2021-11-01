@@ -13,7 +13,7 @@
     <a href="mailto:andremarocs967@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) &nbsp; [![Liguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) &nbsp; [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline-block"><br/>
   <h1>Algumas das principais tecnologias que utilizo no dia a dia</h1>
@@ -23,7 +23,7 @@
    <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
    <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
    <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-   <img  src"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
    <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
    <img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   
@@ -49,10 +49,6 @@
     <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
     <img  src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
     <img  src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
-    <img  src"https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+    <img  src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   
 </div><br/>
-
-
-
-
