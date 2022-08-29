@@ -13,7 +13,13 @@
     <a href="mailto:andremarocs967@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) &nbsp; [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Marcos-afk&theme=dracula&hide_border=true)<br/>
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)
+
+## 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Marcos-afk&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 <div style="display: inline-block"><br/>
   <h1>Algumas das principais tecnologias que utilizo no dia a dia</h1>
@@ -25,7 +31,6 @@
    <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
    <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
    <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-   <img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   
   
   <h3>🗄️ Banco de Dados e Nuvem</h3>
@@ -61,7 +66,27 @@
     <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+<br />
+<br />
 
-</div><br/>
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br />
 
 ![Snake animation](https://github.com/Marcos-afk/Marcos-afk/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Marcos-afk&label=Visitors+Count&color=brightgreen)
