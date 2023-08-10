@@ -15,7 +15,6 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-afk&show_icons=true&theme=dracula) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marcos-afk&theme=dracula&hide_border=true)<br/>
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-afk&layout=demo&theme=dracula)
 
 <div style="display: inline-block"><br/>
   <h1>Algumas das principais tecnologias que utilizo no dia a dia</h1>
